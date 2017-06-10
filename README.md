@@ -11,11 +11,11 @@
 
 ```
 
-My name is:
+My name is: Lawrence
 
-I like to:
+I like to: do things that other people dont understand, like coding!
 
-I'm learning:
+I'm learning: everything I can, including HTML, CSS, Bootstrap, JavaScript, and Python.
 
 ```
 
